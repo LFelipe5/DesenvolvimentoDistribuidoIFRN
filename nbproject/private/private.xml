@@ -3,10 +3,10 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/C:/Users/1958314/Documents/NetBeansProjects/ExemplosDSD/src/soap/ServicoCalculadora.java</file>
-            <file>file:/C:/Users/1958314/Documents/NetBeansProjects/ExemplosDSD/src/soap/PublicadorCalculadora.java</file>
-            <file>file:/C:/Users/1958314/Documents/NetBeansProjects/ExemplosDSD/src/soap/CalculadoraCliente.java</file>
-            <file>file:/C:/Users/1958314/Documents/NetBeansProjects/ExemplosDSD/src/soap/InterfaceCalculadora.java</file>
+            <file>file:/C:/Users/1958314/Documents/NetBeansProjects/ExemplosDSD/src/exfila/Produtor.java</file>
+            <file>file:/C:/Users/1958314/Documents/NetBeansProjects/ExemplosDSD/src/pubsub/Publicador.java</file>
+            <file>file:/C:/Users/1958314/Documents/NetBeansProjects/ExemplosDSD/src/pubsub/Assinante.java</file>
+            <file>file:/C:/Users/1958314/Documents/NetBeansProjects/ExemplosDSD/src/pubsub/OuvinteDeMensagens.java</file>
         </group>
     </open-files>
 </project-private>
