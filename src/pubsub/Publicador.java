@@ -22,7 +22,7 @@ public class Publicador {
             env.setProperty("java.naming.factory.initial", "com.sun.enterprise.naming.SerialInitContextFactory");
             env.setProperty("java.naming.factory.url.pkgs", "com.sun.enterprise.naming");
             env.setProperty("java.naming.factory.state", "com.sun.corba.ee.impl.presentation.rmi.JNDIStateFactoryImpl");
-            env.setProperty("java.naming.provider.url", "177.89.105.90:2700");
+            env.setProperty("java.naming.provider.url", "10.25.1.31:2700");
 
             InitialContext ic = new InitialContext(env);*/
             
