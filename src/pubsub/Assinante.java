@@ -6,17 +6,6 @@ import javax.naming.InitialContext;
 public class Assinante {
     public static void main(String[] args) {
         try {
-            
-            /*Properties env = new Properties();
-            env.setProperty("java.naming.factory.initial", "com.sun.enterprise.naming.SerialInitContextFactory");
-            env.setProperty("java.naming.factory.url.pkgs", "com.sun.enterprise.naming");
-            env.setProperty("java.naming.factory.state", "com.sun.corba.ee.impl.presentation.rmi.JNDIStateFactoryImpl");
-            env.setProperty("java.naming.provider.url", "177.89.105.90:2700");
-            
-            env.setProperty("org.omg.CORBA.ORBInitialHost", "177.89.105.90");
-            env.setProperty("org.omg.CORBA.ORBInitialPort", "2700");
-
-            InitialContext ic = new InitialContext(env);*/
             InitialContext ic = new InitialContext();
             
             TopicConnectionFactory f = (TopicConnectionFactory) ic.lookup("FabricaTopicos");
